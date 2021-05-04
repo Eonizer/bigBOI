@@ -2,12 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class MapGenerator : MonoBehaviour
 {
-    public float speed = 10f;
-    public int weight = 1;
-    public GameObject go;
-
     // Start is called before the first frame update
     void Start()
     {
